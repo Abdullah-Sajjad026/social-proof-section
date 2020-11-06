@@ -79,6 +79,7 @@ body {
     margin-right: 1rem;
     padding: 20px 15px;
     border-radius: 12px;
+    padding: 20px;
 }
 
 .profile {
@@ -95,18 +96,18 @@ body {
 
 .profile h3 {
     color: white;
-    font-size: .7rem;
+    font-size: .9rem;
     margin-bottom: 3px;
 }
 
 .profile h5 {
-    color: hsl(303, 10%, 53%);
-    font-size: .5rem;
+    color: hsl(333, 80%, 67%);
+    font-size: .7rem;
 }
 
-.review {
-    color: #adadad;
-    font-size: .8rem;
+.review{
+    color: hsl(300, 24%, 96%);
+    font-size: .71rem;
     margin: 1rem 0;
     line-height: 1.1rem;
     font-weight: 500;
