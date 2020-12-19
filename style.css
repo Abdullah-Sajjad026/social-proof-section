@@ -32,6 +32,10 @@ body {
     color: hsl(300, 43%, 22%);
 }
 
+.top-text {
+    margin-bottom: 3rem;
+}
+
 .top-text p {
     color: hsl(303, 10%, 53%);
     font-size: 1.2rem;
@@ -66,7 +70,7 @@ body {
 
 .rating-cards {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin-bottom: 20px;
     flex-wrap: wrap;
 
@@ -105,7 +109,7 @@ body {
     font-size: .7rem;
 }
 
-.review{
+.review {
     color: hsl(300, 24%, 96%);
     font-size: .71rem;
     margin: 1rem 0;
